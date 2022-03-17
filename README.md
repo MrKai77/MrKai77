@@ -6,5 +6,5 @@
 
 ```
 Email: shotasushi77@gmail.com  
-Insta: @kai.azim
+Instagram: @kai.azim
 ```
