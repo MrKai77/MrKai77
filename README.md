@@ -10,11 +10,11 @@ Loop is a one-of-a-kind, radial menu-based macOS window manager designed to stre
 
 ### Luminare
 
-The modern, translucent design system made with SwiftUI. Featuring custom components, this package powers the settings window of Loop, and many more to come!
+A modern, delightful, translucent design system made with SwiftUI. Featuring custom components, this package powers the settings window of Loop, and many more to come!
 
 ### DynamicNotchKit
 
-A Swift package that helps developers integrate macOS’s notch into their apps effortlessly.
+A Swift package that makes integrating macOS’s notch into your app effortless. Display notifications, progress indicators, or even custom SwiftUI views, with minimal code!
 
 ### Alula
 
