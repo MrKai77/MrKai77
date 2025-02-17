@@ -1,4 +1,4 @@
-# 🌱 Hi!
+## 🌱 Hi!
 
 I’m Kai, a software developer based in Canada. I’m passionate about crafting refreshing, intuitive, and memorable software experiences, especially in UI design. I love building for Apple platforms, with Swift as my go-to language.
 
